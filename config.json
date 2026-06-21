@@ -65,6 +65,20 @@
       "description": "Learn to build modern REST APIs using the FastAPI framework with CRUD operations, validation, and automatic documentation.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-06-28"
+    },
+    {
+      "id": "sqlite-persistence",
+      "title": "Persistent Python APIs with SQLite",
+      "description": "Build a Python application that stores and retrieves data using SQLite, with CRUD operations and persistence across runs.",
+      "path": "assignments/sqlite-persistence",
+      "dueDate": "2026-06-28",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
